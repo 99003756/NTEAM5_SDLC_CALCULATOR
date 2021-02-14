@@ -30,5 +30,7 @@
  
  ## High Level Requirements :
  
+ ![HLR Table](https://user-images.githubusercontent.com/78867874/107884311-5cb30100-6f1a-11eb-9bff-1973c91be8f0.jpeg)
+ 
  ## Low Level Requirements :
  
