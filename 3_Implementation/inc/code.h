@@ -1,5 +1,5 @@
 /** 
-* @file calculator_operations.h
+// @file calculator_operations.h
 * Calculator application with 4 mathematical operations
 *
 */
@@ -17,7 +17,7 @@
 * @param[in] operand2 
 * @return Result of operand1 + operand2
 */
-int Area_calculation(int ip1,int ip2);
+void Area_calculation();
 
 /**
 *  subtracts the operand1, operand2 and returns the result
@@ -25,7 +25,7 @@ int Area_calculation(int ip1,int ip2);
 * @param[in] operand2 
 * @return Result of operand1 - operand2
 */
-int Volume_calculation(int ip1,int ip2);
+void Volume_calculation();
 
 /**
 *  multiply the operand1, operand2 and returns the result
