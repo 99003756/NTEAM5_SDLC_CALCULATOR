@@ -6,6 +6,8 @@
  
  ## Research
  
+ ![Research](https://user-images.githubusercontent.com/78867874/107884097-d9dd7680-6f18-11eb-9c69-8cc60083dc76.jpeg)
+ 
  ## Cost and Features
  
  ## Defining our System
