@@ -41,3 +41,37 @@ void Volume_calculation()
     total = (4/3) * M_PI * ip1 * ip1 * ip1;
      printf("\nVolume of sphere = %lf",total);
 }
+
+
+int add(int operand1, int operand2)
+{
+    return operand1 + operand2;
+}
+
+int subtract(int operand1, int operand2)
+{
+    return operand1 - operand2;
+}
+
+int multiply(int operand1, int operand2)
+{
+    return operand1 * operand2;
+}
+
+int divide(int operand1, int operand2)
+{
+    if(0 == operand2)
+        return 0;
+    else
+        return operand1 / operand2;
+}
+
+int squareroot(int operand1)
+{
+    return squareroot(operand1);
+}
+
+int square(int operand1)
+{
+    return operand1 * operand1;
+}
