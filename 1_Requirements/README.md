@@ -50,13 +50,13 @@
  ## High Level Requirements :
  
  ![HLR Table](https://user-images.githubusercontent.com/78867874/107884311-5cb30100-6f1a-11eb-9bff-1973c91be8f0.jpeg)
- ![HLR For Trignomatry](https://user-images.githubusercontent.com/78864900/107902249-e6d78580-6f6b-11eb-80d9-784ef3641257.jpg)
+ 
 
  
  ## Low Level Requirements :
  
  ![LLR Table](https://user-images.githubusercontent.com/78867874/107884352-908e2680-6f1a-11eb-99a2-927e41c853ac.jpeg)
  
- ![LLR For Trigno](https://user-images.githubusercontent.com/78864900/107902376-40d84b00-6f6c-11eb-855e-33fb0b2f9f8c.jpg)
+
 
  
