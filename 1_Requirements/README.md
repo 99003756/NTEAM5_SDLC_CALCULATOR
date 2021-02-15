@@ -59,6 +59,8 @@
  
  ![LLR Table](https://user-images.githubusercontent.com/78867874/107884352-908e2680-6f1a-11eb-99a2-927e41c853ac.jpeg)
  
+ ![LLR](https://user-images.githubusercontent.com/78857426/107904931-3bcaca00-6f73-11eb-8ea4-b83d55ca1092.PNG)
+ 
  
 
 
