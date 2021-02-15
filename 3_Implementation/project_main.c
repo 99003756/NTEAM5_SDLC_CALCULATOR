@@ -14,10 +14,10 @@ int main()
 
             switch(ch)
             {
-                case 1:printf("Enter values for add,subtact,multiply and divide");
+                case 1:printf("Enter values for add,substact,multiply and divide");
                 scanf("%d%d",&a,&b);
                         add(a,b);
-                        subtract(a,b);
+                        substract(a,b);
                         multiply(a,b);
                         divide(a,b);
                         printf("Enter value to calculate square");
