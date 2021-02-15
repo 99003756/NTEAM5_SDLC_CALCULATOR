@@ -12,6 +12,8 @@
   
 ![cost](https://user-images.githubusercontent.com/78857426/107904581-4042b300-6f72-11eb-8184-82729fc5cd14.PNG)
 
+![fi](https://user-images.githubusercontent.com/78857426/107910253-09739980-6f80-11eb-8600-11b0fd4d484d.PNG)
+
  
  ## Defining our System
  
