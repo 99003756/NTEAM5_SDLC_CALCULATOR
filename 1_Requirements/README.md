@@ -31,6 +31,8 @@
  ## High Level Requirements :
  
  ![HLR Table](https://user-images.githubusercontent.com/78867874/107884311-5cb30100-6f1a-11eb-9bff-1973c91be8f0.jpeg)
+ ![HLR For Trignomatry](https://user-images.githubusercontent.com/78864900/107902249-e6d78580-6f6b-11eb-80d9-784ef3641257.jpg)
+
  
  ## Low Level Requirements :
  
