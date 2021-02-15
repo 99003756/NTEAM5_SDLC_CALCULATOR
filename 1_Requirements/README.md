@@ -12,6 +12,19 @@
  
  ## Defining our System
  
+ Features:
+ 
+ * High resolution LCD display
+ *Dual powered - Battery and solar
+ * High speed calculation
+ * Memory to revise/recall
+ * Time and date display
+ * Easy user interface through buttond
+ * 1 year warrenty
+ * Upto 32-digits display
+ 
+ Cost - Rs 1300/-
+ 
  ## SWOT Analysis
  
  ![SWOT ANALYSIS](https://user-images.githubusercontent.com/78864900/107903791-1ab4aa00-6f70-11eb-9126-1e5120f1c330.PNG)
