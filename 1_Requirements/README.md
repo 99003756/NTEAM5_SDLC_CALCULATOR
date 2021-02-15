@@ -9,6 +9,9 @@
  ![Research](https://user-images.githubusercontent.com/78867874/107884097-d9dd7680-6f18-11eb-9c69-8cc60083dc76.jpeg)
  
  ## Cost and Features
+  
+![cost](https://user-images.githubusercontent.com/78857426/107904581-4042b300-6f72-11eb-8184-82729fc5cd14.PNG)
+
  
  ## Defining our System
  
