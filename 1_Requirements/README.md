@@ -65,6 +65,10 @@
  ![LLR](https://user-images.githubusercontent.com/78857426/107904931-3bcaca00-6f73-11eb-8ea4-b83d55ca1092.PNG)
  
  ![LLR For Trigno](https://user-images.githubusercontent.com/78864900/107905289-489bed80-6f74-11eb-8539-6697422b3db9.jpg)
+ 
+ ![LOW LEVEL REQUIREMENT TABLE](https://user-images.githubusercontent.com/78871909/107902881-b395f600-6f6d-11eb-885c-d6c3240c5cac.jpg)
+
+
 
  
  
