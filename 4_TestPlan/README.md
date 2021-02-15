@@ -13,7 +13,10 @@
 
 ## Table no : Low level test plan
 
-![Untitled Diagram (1)](https://user-images.githubusercontent.com/78871909/107907565-0c6b8b80-6f7a-11eb-9345-c5c4a26ce80e.jpg)
+
+![LLR_Testplan1](https://user-images.githubusercontent.com/78867874/107910037-910cd880-6f7f-11eb-82a1-4cddbf16996c.JPG)
+
+![LLR_Testplan2](https://user-images.githubusercontent.com/78867874/107910051-9702b980-6f7f-11eb-9495-91b672020b17.JPG)
 
 ![llr_testplan](https://user-images.githubusercontent.com/78857426/107907368-89e2cc00-6f79-11eb-857c-27936798e51a.PNG)
 
