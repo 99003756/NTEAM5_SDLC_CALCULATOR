@@ -76,4 +76,26 @@ int square(int operand1);
 void factorial_fun(double value);
 void Expo_fun(float base,int power);
 
+void Sin_function(double Degrees_Value);
+
+
+
+void Cos_function(double Degrees_Value);
+
+
+
+void Tan_function(double Degrees_Value);
+
+
+
+
+void Cosec_function(double Degrees_Value);
+
+void Sec_function(double Degrees_Value);
+
+
+void Cot_function(double Degrees_Value);
+
+#endif  /* #define __CALCULATOR_OPERATIONS_H__ */
+
 #endif  /* #define __CALCULATOR_OPERATIONS_H__ */

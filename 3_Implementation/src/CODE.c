@@ -92,3 +92,22 @@ void Expo_fun(float base,int power)
     int result = pow(base, power);
      printf("Exponatial value %d \t\n",result);
 } 
+
+void Sin(double RadianValue ){
+        printf("\n %lf\n",sin(RadianValue));
+    }
+    void Cos(double RadianValue ){
+        printf("\n %lf\n",cos(RadianValue));
+    }
+    void Tan(double RadianValue ){
+        printf("\n %lf\n",tan(RadianValue));
+    }
+    void Cosec(double RadianValue ){
+        printf("\n %lf\n",(1.0/sin(RadianValue)));
+    }
+    void Sec(double RadianValue ){
+        printf("\n %lf\n",(1.0/cos(RadianValue)));
+    }
+    void Cot(double RadianValue ){
+        printf("\n %lf\n",(1.0/tan(RadianValue)));
+    }
