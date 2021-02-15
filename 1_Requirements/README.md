@@ -51,11 +51,14 @@
  
  ![HLR Table](https://user-images.githubusercontent.com/78867874/107884311-5cb30100-6f1a-11eb-9bff-1973c91be8f0.jpeg)
  
+ ![HLR](https://user-images.githubusercontent.com/78857426/107904867-15a52a00-6f73-11eb-8f53-cf3d7f4fd234.PNG)
+ 
 
  
  ## Low Level Requirements :
  
  ![LLR Table](https://user-images.githubusercontent.com/78867874/107884352-908e2680-6f1a-11eb-99a2-927e41c853ac.jpeg)
+ 
  
 
 
