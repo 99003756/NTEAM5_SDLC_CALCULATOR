@@ -57,10 +57,7 @@
  ![HIGH LEVEL REQUIREMENT TABLE (1)](https://user-images.githubusercontent.com/78871909/107902819-88aba200-6f6d-11eb-8ac6-140b90afd6f8.jpg)
 
 
- 
-
- 
- ## Low Level Requirements :
+## Low Level Requirements :
  
  ![LLR Table](https://user-images.githubusercontent.com/78867874/107884352-908e2680-6f1a-11eb-99a2-927e41c853ac.jpeg)
  
