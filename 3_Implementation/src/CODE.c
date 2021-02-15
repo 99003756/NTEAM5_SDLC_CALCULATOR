@@ -1,4 +1,5 @@
-#include <code.h>
+#include "code.h"
+#include<math.h>
 
 void Area_calculation()
 {
@@ -75,3 +76,19 @@ int square(int operand1)
 {
     return operand1 * operand1;
 }
+
+void factorial_fun(double value)
+    {
+    int i,fac=1;
+    for(i=1;i<=value;i++)
+    {
+        fac=fac*i;
+    }
+    printf("Factorial is %d",fac);
+}
+void Expo_fun(float base,int power) 
+{ 
+   
+    int result = pow(base, power);
+     printf("Exponatial value %d \t\n",result);
+} 

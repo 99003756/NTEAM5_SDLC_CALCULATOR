@@ -6,9 +6,7 @@
 #ifndef __CODE_H__
 #define __CODE_H__
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
+
 //#include <stdio_ext.h>
 
 /**
@@ -75,6 +73,7 @@ int square(int operand1);
 * @param[in] operand2 
 * @return Result of operand1 * operand2
 */
-
+void factorial_fun(double value);
+void Expo_fun(float base,int power);
 
 #endif  /* #define __CALCULATOR_OPERATIONS_H__ */

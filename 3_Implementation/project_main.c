@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
 #include <code.h>
 
 int main()
@@ -6,9 +9,9 @@ int main()
     int a,b;
     do
     {
-            printf("Enter choice 1->Arithmetic operations\n 2->Area calculation\n 3->Volume calculation\n");
-            // 6->Factorial\n");
-            scanf("%d",&ch);
+            printf("Enter choice 1->Arithmetic operations\n 2->Area calculation\n 3->Volume calculation\n 4->Exponential calculation\n 5-\
+            >factorial\n");
+           scanf("%d",&ch);
 
             switch(ch)
             {
@@ -25,19 +28,21 @@ int main()
                 scanf("%d%d",&a);
                         squareroot(a);
                         break;
-             /*   case 2:Relational_operations();
-                        break;
-                case 3:Logical_operations();
-                        break;*/
-             case 2:Area_calculation();
+                case 2:Area_calculation();
                         break;
                 case 3:Volume_calculation();
                         break;
-                //case 6:Factorial_calculations();
-                  //      break;
+                case 4: printf("Enter base and power to calculate exponential\n");
+                        scanf("%f%d",&a,&b);
+                        Expo_fun(a,b);
+                        break;
+                case 5:printf("Enter number to calculate its factorial");
+                        scanf("%d",&a);
+                        factorial_fun(a);
+                        break;
                 default:printf("Do nothing\n");
             }
-    }while(ch!=4);
+    }while(ch!=6);
     return 0;
 }
 
