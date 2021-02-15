@@ -12,6 +12,8 @@
 
 ![HLR Test Plan](https://user-images.githubusercontent.com/78864900/107907968-fd390d80-6f7a-11eb-88fa-e727f19c6bbf.PNG)
 
+![LLR Test Plan](https://user-images.githubusercontent.com/78864900/107907993-0c1fc000-6f7b-11eb-8012-716aabdf57f1.PNG)
+
 
 
 
