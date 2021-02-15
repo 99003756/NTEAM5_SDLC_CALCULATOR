@@ -38,3 +38,6 @@
  
  ![LLR Table](https://user-images.githubusercontent.com/78867874/107884352-908e2680-6f1a-11eb-99a2-927e41c853ac.jpeg)
  
+ ![LLR For Trigno](https://user-images.githubusercontent.com/78864900/107902376-40d84b00-6f6c-11eb-855e-33fb0b2f9f8c.jpg)
+
+ 
