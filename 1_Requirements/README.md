@@ -32,18 +32,17 @@
  
  ![SWOT ANALYSIS](https://user-images.githubusercontent.com/78864900/107903791-1ab4aa00-6f70-11eb-9126-1e5120f1c330.PNG)
 
+  # 4W's and 1'H
  
- # 4W's and 1'H
+ ## Who : EVERY ONE WILL USE THIS,ESPECIALLY FOR STUDENTS AND SCIENTITS
  
- ## Who :
+ ## What : IT IS ABOUT MULTI FUNCTIONAL SCIENTIFIC CALCULATOR
  
- ## What :
+ ## When : FOR FAST CALCULATIONS DURING LEARNING 
  
- ## When :
+ ## Where : FOR COMPLEX CALCULATIONS  
  
- ## Where :
- 
- ## How :
+ ## How : USER BUTTON INTERFACE (BUTTONS) AND GETS DISPLAYED ON LCD
  
  # Detail Requirements
  
