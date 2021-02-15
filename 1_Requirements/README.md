@@ -14,6 +14,9 @@
  
  ## SWOT Analysis
  
+ ![SWOT ANALYSIS](https://user-images.githubusercontent.com/78864900/107903791-1ab4aa00-6f70-11eb-9126-1e5120f1c330.PNG)
+
+ 
  # 4W's and 1'H
  
  ## Who :
