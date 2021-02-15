@@ -6,3 +6,8 @@
 
 ![class diagram for exponential in HLR](https://user-images.githubusercontent.com/78864900/107904009-ab8b8580-6f70-11eb-8635-a5d5c16d70b6.jpg)
 
+
+![HIGH LEVEL CLASS DIAGRAM](https://user-images.githubusercontent.com/78871909/107904129-ebeb0380-6f70-11eb-8e85-870f7644253f.jpg)
+
+
+
