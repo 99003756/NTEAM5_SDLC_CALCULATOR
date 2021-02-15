@@ -86,12 +86,12 @@ void factorial_fun(double value)
     }
     printf("Factorial is %d",fac);
 }
-void Expo_fun(float base,int power) 
-{ 
-   
+void Expo_fun(float base,int power)
+{
+
     int result = pow(base, power);
      printf("Exponatial value %d \t\n",result);
-} 
+}
 
 void Sin(double RadianValue ){
         printf("\n %lf\n",sin(RadianValue));
@@ -111,3 +111,4 @@ void Sin(double RadianValue ){
     void Cot(double RadianValue ){
         printf("\n %lf\n",(1.0/tan(RadianValue)));
     }
+

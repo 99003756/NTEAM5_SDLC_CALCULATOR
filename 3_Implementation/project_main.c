@@ -1,16 +1,15 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
-#include <code.h>
+
+#include "code.h"
 
 int main()
 {
     int ch;
     int a,b;
+    double RadianValue;
     do
     {
             printf("Enter choice 1->Arithmetic operations\n 2->Area calculation\n 3->Volume calculation\n 4->Exponential calculation\n 5-\
-            >factorial\n");
+            >factorial\n6->Trignometric operations\n");
            scanf("%d",&ch);
 
             switch(ch)
@@ -40,9 +39,20 @@ int main()
                         scanf("%d",&a);
                         factorial_fun(a);
                         break;
+                case 6:printf("Enter radian value\n");
+                        scanf("%d",&RadianValue);
+                        Sin(RadianValue);
+                        Cos(RadianValue);
+                        Tan(RadianValue);
+                        Sec(RadianValue);
+                        Cosec(RadianValue);
+                        Cot(RadianValue);
+                        break;
+
                 default:printf("Do nothing\n");
             }
     }while(ch!=6);
     return 0;
 }
+
 
