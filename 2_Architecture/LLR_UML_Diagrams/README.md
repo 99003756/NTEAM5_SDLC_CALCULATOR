@@ -7,3 +7,6 @@
 
 
 ![Component_LLR](https://user-images.githubusercontent.com/78857426/107903734-f0fb8300-6f6f-11eb-84ef-ae9df8810ecf.jpg)
+
+![Deployment_LLR](https://user-images.githubusercontent.com/78864900/107904057-c958ea80-6f70-11eb-9774-224977b37445.jpg)
+
