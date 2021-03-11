@@ -135,6 +135,41 @@ void test_Cot_function4(void)
       TEST_ASSERT_EQUAL(0.5,Cot_function(30));
 }
 
+// test cases for area functions
+void test_cir(void)
+{
+    TEST_ASSERT_EQUAL(78.5398,area_circle(5));
+}
+void test_rect(void)
+{
+    TEST_ASSERT_EQUAL(200,area_rectangle(10,20));
+}
+void test_sqr(void)
+{
+    TEST_ASSERT_EQUAL(225,area_square(15));
+}
+void test_tri(void)
+{
+    TEST_ASSERT_EQUAL(100,area_triangle(10,20));
+}
+
+// test cases for volume calculations
+void test_cub(void)
+{
+    TEST_ASSERT_EQUAL(512,vol_cube(8));
+}
+void test_cyl(void)
+{
+    TEST_ASSERT_EQUAL(6786,vol_cylinder(12,15));
+}
+void test_con(void)
+{
+    TEST_ASSERT_EQUAL(100,vol_cone(20,15));
+}
+void test_sph(void)
+{
+    TEST_ASSERT_EQUAL(3053,vol_sphere(9));
+}
 
 
 int main(void)
@@ -169,5 +204,15 @@ int main(void)
     RUN_TEST(test_Sec_function4);
     RUN_TEST(test_Tan_function4);
     RUN_TEST(test_Cot_function4);
+
+    RUN_TEST(test_cir);
+    RUN_TEST(test_rect);
+    RUN_TEST(test_sqr);
+    RUN_TEST(test_tri);
+
+    RUN_TEST(test_cub);
+    RUN_TEST(test_cyl);
+    RUN_TEST(test_con);
+    RUN_TEST(test_sph);
   return UNITY_END();
 }
