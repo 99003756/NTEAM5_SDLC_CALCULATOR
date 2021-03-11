@@ -10,8 +10,8 @@ jobs:
   build:
 
   runs-on: ubuntu-latest
-  -name: install make
-  run: sudo apt istall cmake
-  -name: build
-  run: make
+    -name: install make
+      run: sudo apt istall cmake
+    -name: build
+      run: make
     
