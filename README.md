@@ -6,6 +6,10 @@ Status badege unity testing
 Status badege cpp
 
 [![C/C++ CI - Build Status](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/c-cpp.yml)
+
+Status badege static code
+
+[![Code Quality - Static Code - Cppcheck](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/cppcheck.yml)
 # SDLC Activity Based Learning
 
 ## Folder structure
