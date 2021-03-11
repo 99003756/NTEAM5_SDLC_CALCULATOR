@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 
-
+#define PI 3.142
 //Trignomatry
 
 double Sin_function(double Degrees_Value);
