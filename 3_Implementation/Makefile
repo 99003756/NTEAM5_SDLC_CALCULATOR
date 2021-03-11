@@ -37,6 +37,9 @@ all: $(SRC) $(BUILD)
 run:$(PROJECT_NAME)
 	./$(PROJECT_OUTPUT).out
 
+coverageCheck:$(BUILD)
+	g++ -fprofile-arcs -ftest-coverage -fPIC -O0 $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
+	./$(TEST_OUTPUT)
 
 clean:
 	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
