@@ -36,6 +36,9 @@ all: $(SRC) $(BUILD)
 
 run:$(PROJECT_NAME)
 	./$(PROJECT_OUTPUT).out
+	
+memcheck: $(PROJECT_NAME).out
+	valgrind ./$(PROJECT_OUTPUT).out
 
 coverageCheck:$(BUILD)
 	g++ -fprofile-arcs -ftest-coverage -fPIC -O0 $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
