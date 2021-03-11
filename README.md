@@ -1,6 +1,6 @@
 
+Status badege unity testing
 [![Unit Testing - Unity](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/unity.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/unity.yml)
-[![Cppcheck](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/Cppcheck.yml)
 
 # SDLC Activity Based Learning
 
