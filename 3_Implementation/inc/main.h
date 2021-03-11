@@ -24,3 +24,11 @@ int vol_cylinder(int num1,int num2);
 int vol_cone(int num1,int num2);
 int vol_sphere(int num1);
 
+//Arithmetic operations
+
+int add(int num1,int num2);
+int sub(int num1, int num2);
+int multiply(int num1, int num2);
+int div(int num1,int num2);
+
+
