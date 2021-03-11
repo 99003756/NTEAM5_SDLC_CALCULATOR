@@ -11,6 +11,10 @@ Status badege static code
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/cppcheck.yml)
 
+Status badge Contribution Check - Git Inspector
+
+[![Contribution Check - Git Inspector](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/gitInspector.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/gitInspector.yml)
+
 # SDLC Activity Based Learning
 
 ## Folder structure
