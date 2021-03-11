@@ -7,7 +7,7 @@ PROJECT_NAME = Calculator
 # Output directory
 BUILD = build
 
-SRC = test_main.c\
+SRC = test/test_main.c\
 src/main.c\
 unity/unity.c
 
