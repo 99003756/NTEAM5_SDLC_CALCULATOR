@@ -10,7 +10,7 @@ void tearDown(){}
 // test cases for area functions
 void test_cir(void)
 {
-    TEST_ASSERT_EQUAL(79,area_circle(5));
+    TEST_ASSERT_EQUAL(0,area_circle(5));
 }
 void test_cir1(void)
 {
