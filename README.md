@@ -1,10 +1,10 @@
 
 # SDLC Activity Based Learning
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
+Build | Code Quality | Unity | [Git Inspector]
 ------|----------|-------|--------------
-[![C/C++ CI - Build Status](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/c-cpp.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/cppcheck.yml) | [![Unit Testing - Unity](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/unity.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/unity.yml)
-[![Contribution Check - Git Inspector](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/gitInspector.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/gitInspector.yml)
+[![C/C++ CI - Build Status](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/c-cpp.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/cppcheck.yml) | [![Unit Testing - Unity](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/unity.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/unity.yml) |[![Contribution Check - Git Inspector](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/gitInspector.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/gitInspector.yml)
+
 
 ## Folder structure
 
