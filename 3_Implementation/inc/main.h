@@ -28,7 +28,9 @@ int vol_sphere(int num1);
 
 int add(int num1,int num2);
 int sub(int num1, int num2);
-int multiply(int num1, int num2);
+int mul(int num1, int num2);
 int div(int num1,int num2);
+int sqrroot(int num1);
+int sqr(int num1);
 
 
