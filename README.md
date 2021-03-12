@@ -1,7 +1,8 @@
 
 # SDLC Activity Based Learning
 
-
+Build status badege
+[![C/C++ CI - Build Status](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/c-cpp.yml)
 
 
 ## Folder structure
