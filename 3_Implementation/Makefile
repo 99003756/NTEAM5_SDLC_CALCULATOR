@@ -31,11 +31,14 @@ $(PROJECT_NAME):all
 .PHONY: run clean test doc all
 
 all: $(SRC) $(BUILD)
-	gcc $(SRC) $(INC) -o $(PROJECT_OUTPUT) -lm
+	gcc $(SRC) $(INC) -o $(PROJECT_OUTPUT).out -lm
 
 
 run:$(PROJECT_NAME)
 	./$(PROJECT_OUTPUT).out
+	
+analysis:
+	cppcheck $(SRC)
 	
 memcheck: $(PROJECT_NAME).out
 	valgrind ./$(PROJECT_OUTPUT).out
