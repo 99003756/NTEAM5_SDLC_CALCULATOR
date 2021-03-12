@@ -38,7 +38,7 @@ int div(int num1,int num2)
 int sqrroot(int num1)
 {
     int squareroot;
-    squareroot = √num1;
+    squareroot = sqrt(num1);
     return squareroot;
 }
 int sqr(int num1)
