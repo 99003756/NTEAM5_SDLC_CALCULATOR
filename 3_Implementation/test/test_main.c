@@ -14,6 +14,8 @@ void test_Tan_function(void);
 void test_Cosec_function(void);
 void test_Sec_function(void);
 void test_Cot_function(void);
+void test_exponential(void);
+void test_factorial(void);
 
 void test_Sin_function(void)
 {
@@ -204,7 +206,15 @@ void test_sqr5(void)
 {
     TEST_ASSERT_EQUAL(121,sqr(11));
 }
+ void test_exponential(void) 
+{
+  TEST_ASSERT_EQUAL(8,Exponential(2, 3));
+}
 
+void test_factorial(void)
+{
+    TEST_ASSERT_EQUAL(720,fact(6));
+}
 
 int main(void)
 { 
@@ -262,6 +272,8 @@ RUN_TEST(test_Sin_function);
 //     RUN_TEST(test_sqr4);
 //     RUN_TEST(test_sqr5);
 
+    void test_exponential(void);
+  void test_factorial(void);
   return UNITY_END();
 }
 
