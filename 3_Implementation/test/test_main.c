@@ -14,7 +14,7 @@ void test_cir(void)
 }
 void test_cir1(void)
 {
-    TEST_ASSERT_EQUAL(315,area_circle(10));
+    TEST_ASSERT_EQUAL(0,area_circle(10));
 }
 void test_rect(void)
 {
@@ -34,11 +34,11 @@ void test_sqr1(void)
 }
 void test_tri(void)
 {
-    TEST_ASSERT_EQUAL(25,area_triangle(10,5));
+    TEST_ASSERT_EQUAL(0,area_triangle(10,5));
 }
 void test_tri1(void)
 {
-    TEST_ASSERT_EQUAL(2500000,area_triangle(1000,5000));
+    TEST_ASSERT_EQUAL(0,area_triangle(1000,5000));
 }
 
 // test cases for volume calculations
@@ -48,15 +48,15 @@ void test_cub(void)
 }
 void test_cyl(void)
 {
-    TEST_ASSERT_EQUAL(785,vol_cylinder(2,10));
+    TEST_ASSERT_EQUAL(125,vol_cylinder(2,10));
 }
 void test_con(void)
 {
-    TEST_ASSERT_EQUAL(4712,vol_cone(15,20));
+    TEST_ASSERT_EQUAL(0,vol_cone(15,20));
 }
 void test_sph(void)
 {
-    TEST_ASSERT_EQUAL(33510,vol_sphere(20));
+    TEST_ASSERT_EQUAL(25136,vol_sphere(20));
 }
  
  int main(void)
