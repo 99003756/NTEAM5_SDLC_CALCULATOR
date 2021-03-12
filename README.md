@@ -4,8 +4,6 @@
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
 [![C/C++ CI - Build Status](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/c-cpp.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/cppcheck.yml) | [![Unit Testing - Unity](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/unity.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/unity.yml)
-
-3| 
 [![Contribution Check - Git Inspector](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/gitInspector.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/gitInspector.yml)
 
 ## Folder structure
