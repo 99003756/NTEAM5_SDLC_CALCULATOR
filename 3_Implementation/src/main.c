@@ -44,7 +44,7 @@ int sqrroot(int num1)
 int sqr(int num1)
 {
     int square
-    square = num1 * num1;;
+    square = num1 * num1;
     return square;
 }
 
