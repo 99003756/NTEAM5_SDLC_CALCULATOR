@@ -226,41 +226,41 @@ RUN_TEST(test_Sin_function);
     RUN_TEST(test_con);
     RUN_TEST(test_sph);
 
-    RUN_TEST(test_add1);
-    RUN_TEST(test_add2); 
-    RUN_TEST(test_add3);
-    RUN_TEST(test_add4);
-    RUN_TEST(test_add5);
+//     RUN_TEST(test_add1);
+//     RUN_TEST(test_add2); 
+//     RUN_TEST(test_add3);
+//     RUN_TEST(test_add4);
+//     RUN_TEST(test_add5);
 
-    RUN_TEST(test_sub1);
-    RUN_TEST(test_sub2);
-    RUN_TEST(test_sub3);
-    RUN_TEST(test_sub4);
-    RUN_TEST(test_sub5);
+//     RUN_TEST(test_sub1);
+//     RUN_TEST(test_sub2);
+//     RUN_TEST(test_sub3);
+//     RUN_TEST(test_sub4);
+//     RUN_TEST(test_sub5);
 
-    RUN_TEST(test_mul1);
-    RUN_TEST(test_mul2);
-    RUN_TEST(test_mul3);
-    RUN_TEST(test_mul4);
-    RUN_TEST(test_mul5);
+//     RUN_TEST(test_mul1);
+//     RUN_TEST(test_mul2);
+//     RUN_TEST(test_mul3);
+//     RUN_TEST(test_mul4);
+//     RUN_TEST(test_mul5);
 
-    RUN_TEST(test_div1);
-    RUN_TEST(test_div2);
-    RUN_TEST(test_div3);
-    RUN_TEST(test_div4);
-    RUN_TEST(test_div5);
+//     RUN_TEST(test_div1);
+//     RUN_TEST(test_div2);
+//     RUN_TEST(test_div3);
+//     RUN_TEST(test_div4);
+//     RUN_TEST(test_div5);
     
-    RUN_TEST(test_sqrroot1);
-    RUN_TEST(test_sqrroot2);
-    RUN_TEST(test_sqrroot3);
-    RUN_TEST(test_sqrroot4);
-    RUN_TEST(test_sqrroot5);
+//     RUN_TEST(test_sqrroot1);
+//     RUN_TEST(test_sqrroot2);
+//     RUN_TEST(test_sqrroot3);
+//     RUN_TEST(test_sqrroot4);
+//     RUN_TEST(test_sqrroot5);
     
-    RUN_TEST(test_sqr1);
-    RUN_TEST(test_sqr2);
-    RUN_TEST(test_sqr3);
-    RUN_TEST(test_sqr4);
-    RUN_TEST(test_sqr5);
+//     RUN_TEST(test_sqr1);
+//     RUN_TEST(test_sqr2);
+//     RUN_TEST(test_sqr3);
+//     RUN_TEST(test_sqr4);
+//     RUN_TEST(test_sqr5);
 
   return UNITY_END();
 }
