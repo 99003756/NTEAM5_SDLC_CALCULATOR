@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include"unity.h"
+#include <math.h>
 
 int add(int num1,int num2);
 int sub(int num1, int num2);
