@@ -8,6 +8,7 @@ BUILD = build
 SRC = src/main.c\
 src/area_volume.c\
 src/ar_rel.c\
+src/factorial.c\
 test/test_main.c\
 unity/unity.c
  

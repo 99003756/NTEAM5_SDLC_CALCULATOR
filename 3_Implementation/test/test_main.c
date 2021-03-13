@@ -3,7 +3,7 @@
 #include "main.h"
 #include "area_volume.h"
 #include "ar_rel.h"
-
+#include "factorial.h"
 void setUp(){}
 
 void tearDown(){}
@@ -216,6 +216,17 @@ void test_SmallerthanEqualFun2(void)
     TEST_ASSERT_EQUAL(1,SmallerthanEqualFun(5,9));
 }
 
+void test_exponential(void) 
+{
+  TEST_ASSERT_EQUAL(8,Exponential(2, 3));
+  
+}
+  void test_factorial(void)
+  {
+    TEST_ASSERT_EQUAL(120,fact(5));
+  }
+ 
+  //TEST_ASSERT_EQUAL(5,exponential(2,-3));
  int main(void)
 { 
   UNITY_BEGIN();
@@ -273,8 +284,8 @@ void test_SmallerthanEqualFun2(void)
     RUN_TEST(test_GreaterthanEqualFun2);
     RUN_TEST(test_SmallerthanEqualFun1);
     RUN_TEST(test_SmallerthanEqualFun2);
-
-
+    RUN_TEST(test_exponential);
+ RUN_TEST(test_factorial);
   return UNITY_END();
 }
 
