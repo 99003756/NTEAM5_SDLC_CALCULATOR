@@ -311,20 +311,11 @@ void test_factorial1(void)
     TEST_ASSERT_EQUAL(1,fact(1));
   }
 
-
-
-
-
-void test_bintodec(void)
-{​​​​​​​
-  TEST_ASSERT_EQUAL(8, bintodec(1000));
-}​​​​​​​
-
  
-void test_bintodec_1(void)
-{​​​​​​​
-TEST_ASSERT_EQUAL(15, bintodec(1111));
-}​​​​​​​
+// void test_bintodec_1(void)
+// {​​​​​​​
+// TEST_ASSERT_EQUAL(15, bintodec(1111));
+// }​​​​​​​
 
 
 
@@ -419,10 +410,6 @@ RUN_TEST(test_factorial1);
 RUN_TEST(test_factorial2);
 RUN_TEST(test_factorial3);
 RUN_TEST(test_factorial4);
-
-
-RUN_TEST( test_bintodec);
-RUN_TEST(test_bintodec_1);
   return UNITY_END();
 }
 
