@@ -221,10 +221,65 @@ void test_exponential(void)
   TEST_ASSERT_EQUAL(8,Exponential(2, 3));
   
 }
+
+void test_exponential1(void) 
+{
+  TEST_ASSERT_EQUAL(16,Exponential(2, 4));
+  
+}
+
+void test_exponential2(void) 
+{
+  TEST_ASSERT_EQUAL(25,Exponential(5, 2));
+  
+}
+void test_exponential3(void) 
+{
+  TEST_ASSERT_EQUAL(1,Exponential(5, 0));
+  
+}
   void test_factorial(void)
   {
     TEST_ASSERT_EQUAL(120,fact(5));
   }
+void test_factorial1(void)
+  {
+    TEST_ASSERT_EQUAL(24,fact(4));
+  }
+ void test_factorial2(void)
+  {
+    TEST_ASSERT_EQUAL(6,fact(3));
+  }
+  void test_factorial3(void)
+  {
+    TEST_ASSERT_EQUAL(2,fact(2));
+  }
+  void test_factorial4(void)
+  {
+    TEST_ASSERT_EQUAL(1,fact(1));
+  }
+
+
+
+
+
+void test_bintodec(void)
+{​​​​​​​
+  TEST_ASSERT_EQUAL(8, bintodec(1000));
+}​​​​​​​
+
+ 
+void test_bintodec_1(void)
+{​​​​​​​
+TEST_ASSERT_EQUAL(15, bintodec(1111));
+}​​​​​​​
+
+
+
+
+
+ 
+ 
  
   //TEST_ASSERT_EQUAL(5,exponential(2,-3));
  int main(void)
@@ -284,8 +339,26 @@ void test_exponential(void)
     RUN_TEST(test_GreaterthanEqualFun2);
     RUN_TEST(test_SmallerthanEqualFun1);
     RUN_TEST(test_SmallerthanEqualFun2);
+
+    //exponential test cases
     RUN_TEST(test_exponential);
+     RUN_TEST(test_exponential1);
+      RUN_TEST(test_exponential2);
+      RUN_TEST(test_exponential3);
+
+      //test cases for binary to decimal 
+
+
+//factorial test cases
  RUN_TEST(test_factorial);
+RUN_TEST(test_factorial1);
+RUN_TEST(test_factorial2);
+RUN_TEST(test_factorial3);
+RUN_TEST(test_factorial4);
+
+
+RUN_TEST( test_bintodec);
+RUN_TEST(test_bintodec_1);
   return UNITY_END();
 }
 
