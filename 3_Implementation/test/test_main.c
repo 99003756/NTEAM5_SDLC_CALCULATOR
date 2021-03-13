@@ -319,10 +319,10 @@ void test_factorial1(void)
 
 
 void test_permutation(void) {
-  TEST_ASSERT_EQUAL(1, permutation(0, 10));
+  TEST_ASSERT_EQUAL(20, permutation(5, 2));
 }
 void test_combination(void) {
-  TEST_ASSERT_EQUAL(0, combination(0, 10));
+  TEST_ASSERT_EQUAL(10, combination(5, 2));
 }
 
 
@@ -420,4 +420,3 @@ RUN_TEST(test_combination);
 RUN_TEST(test_permutation);
   return UNITY_END();
 }
-
