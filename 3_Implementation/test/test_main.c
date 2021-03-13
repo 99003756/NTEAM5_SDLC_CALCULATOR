@@ -7,6 +7,14 @@ void setUp(){}
 
 void tearDown(){}
 
+//Test Cases for Trignomatry
+
+void test_Sin_function(void);
+void test_Cos_function(void);
+void test_Tan_function(void);
+void test_Cosec_function(void);
+void test_Sec_function(void);
+void test_Cot_function(void);
 // test cases for area functions
 void test_cir(void)
 {
@@ -59,6 +67,35 @@ void test_sph(void)
     TEST_ASSERT_EQUAL(25136,vol_sphere(20));
 }
  
+//Test Difination for Trignomatry
+
+void test_Sin_function(void)
+{
+     TEST_ASSERT_EQUAL(0.5,Sin_function(30));
+}
+
+void test_Cos_function(void)
+{
+     TEST_ASSERT_EQUAL(0.5,Cos_function(30));
+}
+void test_Tan_function(void)
+{
+      TEST_ASSERT_EQUAL(-6,Tan_function(30));
+}
+void test_Cosec_function(void)
+{
+      TEST_ASSERT_EQUAL(-1,Cosec_function(30));
+}
+void test_Sec_function(void)
+{
+      TEST_ASSERT_EQUAL(0.5,Sec_function(30));
+}
+void test_Cot_function(void)
+{
+      TEST_ASSERT_EQUAL(0.5,Cot_function(30));
+}
+
+
  int main(void)
 { 
   UNITY_BEGIN();
@@ -74,6 +111,12 @@ void test_sph(void)
     RUN_TEST(test_cyl);
     RUN_TEST(test_con);
     RUN_TEST(test_sph);
+    RUN_TEST(test_Sin_function);
+    RUN_TEST(test_Tan_function);
+    RUN_TEST(test_Cos_function);
+    RUN_TEST(test_Cosec_function);
+    RUN_TEST(test_Sec_function);
+
 
   return UNITY_END();
 }
