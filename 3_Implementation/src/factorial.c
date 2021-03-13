@@ -37,5 +37,16 @@ float Exponential(float base,float power)
 // Converting a binary number to decimal
 // if the entered number is binary
 
+ long permutation(int n, int r)
+ {
+     return fact(n)/fact(n-r);
+  
+ }
+
+ long combination(int n, int r)
+ {
+     return permutation(n,r) / fact(r);
+
+ }
 
 

@@ -318,7 +318,12 @@ void test_factorial1(void)
 // }​​​​​​​
 
 
-
+void test_permutation(void) {
+  TEST_ASSERT_EQUAL(1, permutation(0, 10));
+}
+void test_combination(void) {
+  TEST_ASSERT_EQUAL(0, combination(0, 10));
+}
 
 
  
@@ -410,6 +415,9 @@ RUN_TEST(test_factorial1);
 RUN_TEST(test_factorial2);
 RUN_TEST(test_factorial3);
 RUN_TEST(test_factorial4);
+
+RUN_TEST(test_combination);
+RUN_TEST(test_permutation);
   return UNITY_END();
 }
 
