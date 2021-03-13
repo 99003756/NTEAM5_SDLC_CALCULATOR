@@ -111,6 +111,58 @@ void test_Cot_function1(void)
       TEST_ASSERT_EQUAL(0.5,Cot_function(60));
 }
 
+void test_Sin_function2(void)
+{
+     TEST_ASSERT_EQUAL(0.5,Sin_function(30));
+}
+
+void test_Cos_function2(void)
+{
+     TEST_ASSERT_EQUAL(0.5,Cos_function(30));
+}
+void test_Tan_function2(void)
+{
+      TEST_ASSERT_EQUAL(-6,Tan_function(30));
+}
+void test_Cosec_function2(void)
+{
+      TEST_ASSERT_EQUAL(-1,Cosec_function(30));
+}
+void test_Sec_function2(void)
+{
+      TEST_ASSERT_EQUAL(0.5,Sec_function(30));
+}
+void test_Cot_function2(void)
+{
+      TEST_ASSERT_EQUAL(-6,Cot_function(30));
+}
+
+void test_Sin_function3(void)
+{
+     TEST_ASSERT_EQUAL(0.866,Sin_function(60));
+}
+
+void test_Cos_function3(void)
+{
+     TEST_ASSERT_EQUAL(0.5,Cos_function(60));
+}
+void test_Tan_function3(void)
+{
+      TEST_ASSERT_EQUAL(-6,Tan_function(30));
+}
+void test_Cosec_function3(void)
+{
+      TEST_ASSERT_EQUAL(-1,Cosec_function(30));
+}
+void test_Sec_function3(void)
+{
+      TEST_ASSERT_EQUAL(0.5,Sec_function(60));
+}
+void test_Cot_function3(void)
+{
+      TEST_ASSERT_EQUAL(0.5,Cot_function(60));
+}
+
 //test cases for arithmetic
 
 void test_add1(void)
@@ -313,6 +365,18 @@ TEST_ASSERT_EQUAL(15, bintodec(1111));
     RUN_TEST(test_Cosec_function1);
     RUN_TEST(test_Sec_function1);
     RUN_TEST(test_Cot_function1);
+    RUN_TEST(test_Sin_function2);
+    RUN_TEST(test_Tan_function2);
+    RUN_TEST(test_Cos_function2);
+    RUN_TEST(test_Cosec_function2);
+     RUN_TEST(test_Sec_function2);
+    RUN_TEST(test_Cot_function2);
+    RUN_TEST(test_Sin_function3);
+    RUN_TEST(test_Tan_function3);
+    RUN_TEST(test_Cos_function3);
+    RUN_TEST(test_Cosec_function3);
+     RUN_TEST(test_Sec_function3);
+    RUN_TEST(test_Cot_function3);
      // arithmetic test function call
     RUN_TEST(test_add1);
     RUN_TEST(test_add2);
