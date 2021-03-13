@@ -11,11 +11,11 @@ void tearDown(){}
 // test cases for area functions
 void test_cir(void)
 {
-    TEST_ASSERT_EQUAL(0,area_circle(5));
+    TEST_ASSERT_EQUAL(5,area_circle(5));
 }
 void test_cir1(void)
 {
-    TEST_ASSERT_EQUAL(0,area_circle(10));
+    TEST_ASSERT_EQUAL(10,area_circle(10));
 }
 void test_rect(void)
 {
@@ -29,17 +29,14 @@ void test_sqr(void)
 {
     TEST_ASSERT_EQUAL(25,area_square(5));
 }
-void test_sqr1(void)
-{
-    TEST_ASSERT_EQUAL(250000,area_square(500));
-}
+
 void test_tri(void)
 {
-    TEST_ASSERT_EQUAL(0,area_triangle(10,5));
+    TEST_ASSERT_EQUAL(25,area_triangle(10,5));
 }
 void test_tri1(void)
 {
-    TEST_ASSERT_EQUAL(0,area_triangle(1000,5000));
+    TEST_ASSERT_EQUAL(2500000,area_triangle(1000,5000));
 }
 
 // test cases for volume calculations
@@ -85,7 +82,7 @@ void test_Sec_function(void)
 }
 void test_Cot_function(void)
 {
-      TEST_ASSERT_EQUAL(0.5,Cot_function(30));
+      TEST_ASSERT_EQUAL(-6,Cot_function(30));
 }
 
 void test_Sin_function1(void)
