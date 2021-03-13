@@ -39,14 +39,14 @@ float Exponential(float base,float power)
 
  long permutation(int n, int r)
  {
-     return fact(n)/fact(n-r);
-  
+     long x= fact(n)/fact(n-r);
+  return x;
  }
 
  long combination(int n, int r)
  {
-     return permutation(n,r) / fact(r);
-
+    long y= permutation(n,r) / fact(r);
+     return y;
  }
 
 
