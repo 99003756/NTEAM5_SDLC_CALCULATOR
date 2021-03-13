@@ -12,6 +12,13 @@ src/factorial.c\
 test/test_main.c\
 unity/unity.c
  
+ TEST_SRC = src/main.c\
+src/area_volume.c\
+src/ar_rel.c\
+src/factorial.c\
+test/test_main.c\
+unity/unity.c
+
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
  
 # All include folders with header files
@@ -59,7 +66,6 @@ memcheck: $(PROJECT_NAME).out
 	valgrind ./$(PROJECT_NAME).out
 	
 coverageCheck:$(BUILD)
-
 	gcc -fprofile-arcs -ftest-coverage -fPIC -O0 $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) -lm
 	./$(TEST_OUTPUT)
 
