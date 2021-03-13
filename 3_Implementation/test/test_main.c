@@ -121,6 +121,110 @@ void test_Cot_function1(void)
       TEST_ASSERT_EQUAL(0.5,Cot_function(60));
 }
 
+//test cases for arithmetic
+
+void test_add1(void)
+{
+    TEST_ASSERT_EQUAL(20,add(5,15));
+}
+void test_add2(void)
+{
+    TEST_ASSERT_EQUAL(83,add(50,33));
+}
+void test_sub1(void)
+{
+    TEST_ASSERT_EQUAL(10,sub(15,5));
+}
+void test_sub2(void)
+{
+    TEST_ASSERT_EQUAL(5,sub(7,2));
+}
+
+void test_mul1(void)
+{
+    TEST_ASSERT_EQUAL(80,multiply(20,4));
+}
+void test_mul2(void)
+{
+    TEST_ASSERT_EQUAL(45,multiply(9,5));
+}
+void test_div1(void)
+{
+    TEST_ASSERT_EQUAL(31,div(124,4));
+}
+void test_div2(void)
+{
+    TEST_ASSERT_EQUAL(2,div(8,4));
+}
+/*void test_sqrt1(void)
+{
+    TEST_ASSERT_EQUAL(7,sqrt(49));
+}
+// void test_sqrt2(void)
+// {
+//     TEST_ASSERT_EQUAL(15,sqrt(225));
+// }*/
+
+void test_sqr1(void)
+{
+    TEST_ASSERT_EQUAL(121,sqr(11));
+}
+void test_sqr2(void)
+{
+    TEST_ASSERT_EQUAL(81,sqr(9));
+}
+
+//test cases for relational
+
+void test_EqualFun1(void)
+{
+    TEST_ASSERT_EQUAL(1,EqualFun(5,5));
+}
+void test_EqualFun2(void)
+{
+    TEST_ASSERT_EQUAL(1,EqualFun(20,20));
+}
+void test_NotEqualFun1(void)
+{
+    TEST_ASSERT_EQUAL(0,NotEqualFun(3,2));
+}
+void test_NotEqualFun2(void)
+{
+    TEST_ASSERT_EQUAL(0,NotEqualFun(7,2));
+}
+
+void test_GreaterFun1(void)
+{
+    TEST_ASSERT_EQUAL(1,GreaterFun(20,4));
+}
+void test_GreaterFun2(void)
+{
+    TEST_ASSERT_EQUAL(1,GreaterFun(9,5));
+}
+void test_SmallerFun1(void)
+{
+    TEST_ASSERT_EQUAL(1,SmallerFun(1,4));
+}
+void test_SmallerFun2(void)
+{
+    TEST_ASSERT_EQUAL(1,SmallerFun(2,5));
+}
+void test_GreaterthanEqualFun1(void)
+{
+    TEST_ASSERT_EQUAL(1,SmallerthanEqualFun(35,35));
+}
+void test_GreaterthanEqualFun2(void)
+{
+    TEST_ASSERT_EQUAL(1,SmallerthanEqualFun(5,5));
+}
+void test_SmallerthanEqualFun1(void)
+{
+    TEST_ASSERT_EQUAL(1,SmallerthanEqualFun(9,15));
+}
+void test_SmallerthanEqualFun2(void)
+{
+    TEST_ASSERT_EQUAL(1,SmallerthanEqualFun(5,9));
+}
 
  int main(void)
 { 
@@ -147,6 +251,30 @@ void test_Cot_function1(void)
     RUN_TEST(test_Cos_function1);
     RUN_TEST(test_Cosec_function1);
     RUN_TEST(test_Sec_function1);
+    RUN_TEST(test_add1);
+    RUN_TEST(test_add2);
+    RUN_TEST(test_sub1);
+    RUN_TEST(test_sub2);
+    RUN_TEST(test_mul1);
+    RUN_TEST(test_mul2);
+    RUN_TEST(test_div1);
+    RUN_TEST(test_div2);
+    /*RUN_TEST(test_sqrt1);
+    RUN_TEST(test_sqrt2);*/
+    RUN_TEST(test_sqr1);
+    RUN_TEST(test_sqr2);
+    RUN_TEST(test_EqualFun1);
+    RUN_TEST(test_EqualFun2);
+    RUN_TEST(test_NotEqualFun1);
+    RUN_TEST(test_NotEqualFun2);
+    RUN_TEST(test_GreaterFun1);
+    RUN_TEST(test_GreaterFun2);
+    RUN_TEST(test_SmallerFun1);
+    RUN_TEST(test_SmallerFun2);
+    RUN_TEST(test_GreaterthanEqualFun1);
+    RUN_TEST(test_GreaterthanEqualFun2);
+    RUN_TEST(test_SmallerthanEqualFun1);
+    RUN_TEST(test_SmallerthanEqualFun2);
 
 
   return UNITY_END();
