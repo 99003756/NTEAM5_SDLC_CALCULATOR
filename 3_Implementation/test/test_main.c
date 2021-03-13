@@ -7,14 +7,6 @@ void setUp(){}
 
 void tearDown(){}
 
-//Test Cases for Trignomatry
-
-void test_Sin_function(void);
-void test_Cos_function(void);
-void test_Tan_function(void);
-void test_Cosec_function(void);
-void test_Sec_function(void);
-void test_Cot_function(void);
 // test cases for area functions
 void test_cir(void)
 {
@@ -66,7 +58,7 @@ void test_sph(void)
 {
     TEST_ASSERT_EQUAL(25136,vol_sphere(20));
 }
- 
+ //Test Cases for Trignomatry
 //Test Difination for Trignomatry
 
 void test_Sin_function(void)
@@ -229,6 +221,7 @@ void test_SmallerthanEqualFun2(void)
  int main(void)
 { 
   UNITY_BEGIN();
+     // area test function call
     RUN_TEST(test_cir);
     RUN_TEST(test_rect);
     RUN_TEST(test_sqr);
@@ -237,20 +230,26 @@ void test_SmallerthanEqualFun2(void)
     RUN_TEST(test_rect1);
     RUN_TEST(test_sqr1);
     RUN_TEST(test_tri1);
+     // volume test function call
     RUN_TEST(test_cub);
     RUN_TEST(test_cyl);
     RUN_TEST(test_con);
     RUN_TEST(test_sph);
+     // trignometric test function call
     RUN_TEST(test_Sin_function);
     RUN_TEST(test_Tan_function);
     RUN_TEST(test_Cos_function);
     RUN_TEST(test_Cosec_function);
-    RUN_TEST(test_Sec_function);
+     RUN_TEST(test_Sec_function);
+    RUN_TEST(test_Cot_function);
+    // trignometric test function call
     RUN_TEST(test_Sin_function1);
     RUN_TEST(test_Tan_function1);
     RUN_TEST(test_Cos_function1);
     RUN_TEST(test_Cosec_function1);
     RUN_TEST(test_Sec_function1);
+    RUN_TEST(test_Cot_function1);
+     // arithmetic test function call
     RUN_TEST(test_add1);
     RUN_TEST(test_add2);
     RUN_TEST(test_sub1);
@@ -263,6 +262,7 @@ void test_SmallerthanEqualFun2(void)
     RUN_TEST(test_sqrt2);*/
     RUN_TEST(test_sqr1);
     RUN_TEST(test_sqr2);
+     // relational test function call
     RUN_TEST(test_EqualFun1);
     RUN_TEST(test_EqualFun2);
     RUN_TEST(test_NotEqualFun1);
