@@ -13,11 +13,19 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 ## Folder structure
 
-![Folder Str](https://user-images.githubusercontent.com/78867874/107912995-9d942f80-6f85-11eb-8208-bd23b102c280.JPG)
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
 
 ## Contributors List and Summary
 
-![Fol1](https://user-images.githubusercontent.com/78867874/107914101-bb629400-6f87-11eb-82e7-2ce1ec012340.JPG)
-
+PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------|----------------|----------------|---------------|-------------|--------------
+`ABC` | 12345678  | Feature A, B etc    | X No     | X No   |X No   |X No     
+`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No     
 
 
