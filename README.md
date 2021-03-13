@@ -11,8 +11,6 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 
 
-## Folder structure
-
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
@@ -26,7 +24,7 @@ Folder             | Description
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
 99003763 | Rajat Kumar Singh  | Feature Trigonometry, Logical Operations   | 3 No     | 1 No   |18 No   |18 No     
-`DEF` | Karishma Kiran | Feature C, D etc    | X No     | X No   |X No   |X No   
+99003760 | Karisma Kiran | Arithmetic operations , Relational Operations   | Features , Requirements    | Resolved by all  | 12   | 12   
 `ABC` |A H Aruna  | Feature A, B etc    | X No     | X No   |X No   |X No     
 `DEF` | sharavan| Feature C, D etc    | X No     | X No   |X No   |X No   
 
