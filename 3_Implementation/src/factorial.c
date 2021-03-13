@@ -5,12 +5,12 @@
 // exponential will have only two inputs i had choosen the input types as floats so it will take all values
 float Exponential(float num1,float num2)
 {
-    float result,t=1;
+    float result=1,t=1;
     result=pow(num1,num2);
     for(int i=1;i<=num2;i++)
     {
-        t=t*num1/i;
-        result=result+t;
+        
+        result=result*num1;
     }
     
     return result;
