@@ -57,6 +57,11 @@ analysis:
 	
 memcheck: $(PROJECT_NAME).out
 	valgrind ./$(PROJECT_NAME).out
+	
+coverageCheck:$(BUILD)
+
+	gcc -fprofile-arcs -ftest-coverage -fPIC -O0 $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) -lm
+	./$(TEST_OUTPUT)
 
 clean:
 	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
