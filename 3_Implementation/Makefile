@@ -7,6 +7,7 @@ BUILD = build
 # All source code files
 SRC = src/main.c\
 src/area_volume.c\
+src/ar_rel.c\
 test/test_main.c\
 unity/unity.c
  
