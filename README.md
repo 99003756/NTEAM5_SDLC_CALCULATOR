@@ -6,7 +6,9 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
 [![C/C++ CI - Build Status](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/c-cpp.yml)| [![Cppcheck](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/cppcheck.yml) [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/CodeQuality_Dynamic.yml)[![CI-Coverage](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/gcov.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/gcov.yml)| [![Unit Testing - Unity](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/unity.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/unity.yml)| [![Contribution Check - Git Inspector](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/gitInspector.yml/badge.svg)](https://github.com/99003756/NTEAM5_SDLC_CALCULATOR/actions/workflows/gitInspector.yml)
 
+# Test Case PASS and FAIL details
 
+![Screenshot from 2021-03-13 12-37-51](https://user-images.githubusercontent.com/78864900/111022479-fd50ef80-83f8-11eb-8c3e-efbd9a3d632d.png)
 
 
 
