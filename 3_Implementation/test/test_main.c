@@ -95,6 +95,32 @@ void test_Cot_function(void)
       TEST_ASSERT_EQUAL(0.5,Cot_function(30));
 }
 
+void test_Sin_function1(void)
+{
+     TEST_ASSERT_EQUAL(0.866,Sin_function(60));
+}
+
+void test_Cos_function1(void)
+{
+     TEST_ASSERT_EQUAL(0.5,Cos_function(60));
+}
+void test_Tan_function1(void)
+{
+      TEST_ASSERT_EQUAL(-6,Tan_function(30));
+}
+void test_Cosec_function1(void)
+{
+      TEST_ASSERT_EQUAL(-1,Cosec_function(30));
+}
+void test_Sec_function1(void)
+{
+      TEST_ASSERT_EQUAL(0.5,Sec_function(60));
+}
+void test_Cot_function1(void)
+{
+      TEST_ASSERT_EQUAL(0.5,Cot_function(60));
+}
+
 
  int main(void)
 { 
@@ -116,6 +142,11 @@ void test_Cot_function(void)
     RUN_TEST(test_Cos_function);
     RUN_TEST(test_Cosec_function);
     RUN_TEST(test_Sec_function);
+    RUN_TEST(test_Sin_function1);
+    RUN_TEST(test_Tan_function1);
+    RUN_TEST(test_Cos_function1);
+    RUN_TEST(test_Cosec_function1);
+    RUN_TEST(test_Sec_function1);
 
 
   return UNITY_END();
