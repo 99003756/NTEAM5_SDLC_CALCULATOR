@@ -99,19 +99,19 @@ int Cot_function(double RadianValue);
 
 //exponential calculation
 //exponential will have only two inputs i had choosen the input types as floats so it will take all values
-float Exponential(float num1,float num2)
-{
-    float result,t;
-    result=pow(num1,num2);
-    for(int i=1;i<=num2;i++)
-    {
-        t=t*num1/i;
-        result=result+t;
-    }
+// float Exponential(float num1,float num2)
+// {
+//     float result,t;
+//     result=pow(num1,num2);
+//     for(int i=1;i<=num2;i++)
+//     {
+//         t=t*num1/i;
+//         result=result+t;
+//     }
     
-    return result;
+//     return result;
  
-}
+// }
 
 //factorial function operation
 //if input is less than zero then it will return 0
