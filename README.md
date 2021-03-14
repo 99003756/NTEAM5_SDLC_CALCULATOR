@@ -25,8 +25,8 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 -------|---------|----------------|----------------|---------------|-------------|--------------
 99003763 | Rajat Kumar Singh  | Trigonometry, Logical Operations   | 3 No     | 1 No   |18 No   |18 No     
 99003760 | Karisma Kiran | Arithmetic operations , Relational Operations   | Features , Requirements    | Resolved by all  | 12   | 12   
-`ABC` |A H Aruna  | Feature A, B etc    | X No     | X No   |X No   |X No     
-`DEF` | sharavan| Feature C, D etc    | X No     | X No   |X No   |X No   
+99003756 |A H Aruna  | Area , Volume Calculations   | X No     | X No   |X No   |X No     
+99003758 | Sravan | Calculus,Factorial,Exponential   | X No     | X No   |X No   |X No   
 
 ## Challenges Faced and How Was It Overcome
 
