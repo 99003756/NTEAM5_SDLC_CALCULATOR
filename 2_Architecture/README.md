@@ -6,7 +6,7 @@
 
 ## State HLR_Diagram
 
-![state_HLR](https://user-images.githubusercontent.com/78857426/107903446-484d2380-6f6f-11eb-9911-9e9e67c0b18d.jpg)
+![image](https://user-images.githubusercontent.com/78857426/111103563-cb649800-8574-11eb-97f0-4a38c9ab3215.png)
 
 ## Structural HLR_Diagram
 
