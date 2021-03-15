@@ -26,7 +26,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 99003763 | Rajat Kumar Singh  | Trigonometry, Logical Operations   | 4   | 3   |18    |18     
 99003760 | Karisma Kiran | Arithmetic operations , Relational Operations   | 4   | 4  | 22   | 22
 99003756 |A H Aruna  | Area , Volume Calculations   | 5     | 5   |11  |11
-99003758 | Sravan | Calculus,Factorial,Exponential   | 2     | 2   |11  |11  
+99003758 | Sravan | Calculus,Factorial,Exponential   | 3     | 2   |11  |11  
 
 ![git ins](https://user-images.githubusercontent.com/78867874/111102075-3f04a600-8571-11eb-9de7-84172fd45ed9.JPG)
 
