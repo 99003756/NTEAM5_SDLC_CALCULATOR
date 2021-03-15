@@ -23,8 +23,8 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-99003763 | Rajat Kumar Singh  | Trigonometry, Logical Operations   | 3 No     | 1 No   |18 No   |18 No     
-99003760 | Karisma Kiran | Arithmetic operations , Relational Operations   | Features , Requirements    | Resolved by all  | 12   | 12   
-99003756 |A H Aruna  | Area , Volume Calculations   | X No     | X No   |X No   |X No     
-99003758 | Sravan | Calculus,Factorial,Exponential   | X No     | X No   |5 No   |5 No   
+99003763 | Rajat Kumar Singh  | Trigonometry, Logical Operations   | 4   | 3   |18    |18     
+99003760 | Karisma Kiran | Arithmetic operations , Relational Operations   | 4   | 4  | 22   | 22
+99003756 |A H Aruna  | Area , Volume Calculations   | 5     | 5   |11  |11
+99003758 | Sravan | Calculus,Factorial,Exponential   | 2     | 2   |11  |11  
 
