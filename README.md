@@ -31,4 +31,6 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 ![git ins](https://user-images.githubusercontent.com/78867874/111102075-3f04a600-8571-11eb-9de7-84172fd45ed9.JPG)
 
 ## Challenges Faced and How Was It Overcome
-1. Valgrind was not running initially, after changing few things issue got resolved.
+1. Makefile was not running on windows.
+2. It was overcomed by using Linux.
+3. Valgrind was not running initially, after changing makefile issue got resolved.
