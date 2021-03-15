@@ -54,6 +54,8 @@
  
  ![HLR](https://user-images.githubusercontent.com/78857426/107904867-15a52a00-6f73-11eb-8f53-cf3d7f4fd234.PNG)
  
+ ![HLR For Trignomatry](https://user-images.githubusercontent.com/78864900/107902249-e6d78580-6f6b-11eb-80d9-784ef3641257.jpg)
+ 
  ![HIGH LEVEL REQUIREMENT TABLE (1)](https://user-images.githubusercontent.com/78871909/107902819-88aba200-6f6d-11eb-8ac6-140b90afd6f8.jpg)
 
 
