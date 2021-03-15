@@ -28,5 +28,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 99003756 |A H Aruna  | Area , Volume Calculations   | 5     | 5   |11  |11
 99003758 | Sravan | Calculus,Factorial,Exponential   | 2     | 2   |11  |11  
 
+![git ins](https://user-images.githubusercontent.com/78867874/111102075-3f04a600-8571-11eb-9de7-84172fd45ed9.JPG)
+
 ## Challenges Faced and How Was It Overcome
 1. Valgrind was not running initially, after changing few things issue got resolved.
