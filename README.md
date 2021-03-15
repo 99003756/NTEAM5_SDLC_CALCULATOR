@@ -40,7 +40,6 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/78867874/111103387-5abd7b80-8574-11eb-827e-6af4af4c4cd9.png)
 
-
 # Karisma Kiran (99003760)
 
 ![agile](https://user-images.githubusercontent.com/78867874/111103320-3366ae80-8574-11eb-9c4c-465bdd2cc2e1.JPG)
