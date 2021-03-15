@@ -34,3 +34,21 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 1. Makefile was not running on windows.
 2. It was overcomed by using Linux.
 3. Valgrind was not running initially, after changing makefile issue got resolved.
+
+# A H Aruna (99003756)
+
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/78867874/111103387-5abd7b80-8574-11eb-827e-6af4af4c4cd9.png)
+
+
+# Karisma Kiran (99003760)
+
+![agile](https://user-images.githubusercontent.com/78867874/111103320-3366ae80-8574-11eb-9c4c-465bdd2cc2e1.JPG)
+
+# Rajat Singh (99003763)
+
+![AgileMethodology](https://user-images.githubusercontent.com/78867874/111103411-690b9780-8574-11eb-8153-7474dd8950b6.PNG)
+
+# Sravan (99003758)
+
+
+
