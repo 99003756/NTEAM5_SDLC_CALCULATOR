@@ -44,7 +44,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ![agile](https://user-images.githubusercontent.com/78867874/111103320-3366ae80-8574-11eb-9c4c-465bdd2cc2e1.JPG)
 
-# Rajat Singh (99003763)
+# Rajat Kumar Singh (99003763)
 
 ![AgileMethodology](https://user-images.githubusercontent.com/78867874/111103411-690b9780-8574-11eb-8153-7474dd8950b6.PNG)
 
