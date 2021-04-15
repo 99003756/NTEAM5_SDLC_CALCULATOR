@@ -8,7 +8,8 @@
 
 ![HLR Test Plan](https://user-images.githubusercontent.com/78864900/107907968-fd390d80-6f7a-11eb-88fa-e727f19c6bbf.PNG)
 
-![Untitled Diagram (1)](https://user-images.githubusercontent.com/78871909/107907565-0c6b8b80-6f7a-11eb-9345-c5c4a26ce80e.jpg)
+![image](https://user-images.githubusercontent.com/78871909/114812995-cb9fbf80-9dce-11eb-8dfe-665d152f08dc.png)
+
 
 
 
